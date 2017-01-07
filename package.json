@@ -1,0 +1,26 @@
+{
+  "name": "bugginho-js",
+  "version": "1.0.0",
+  "description": "Um framework cheio de not todos",
+  "main": "bugginho.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clenisson/Bugginho.JS.git"
+  },
+  "keywords": [
+    "bugginho",
+    "bug",
+    "antipatterns",
+    "javascript",
+    "antipatterns"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clenisson/Bugginho.JS/issues"
+  },
+  "homepage": "https://github.com/clenisson/Bugginho.JS#readme"
+}
