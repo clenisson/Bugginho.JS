@@ -1,2 +1,8 @@
-// Nada pior que um belo alert()
-alert("Bugginho.JS carregado");
+function alert(){
+    // Nada pior que um belo alert()
+    console.log("Bugginho.JS carregado");
+}
+
+alert();
+
+
